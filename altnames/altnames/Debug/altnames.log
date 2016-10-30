@@ -1,0 +1,21 @@
+﻿生成启动时间为 2016/9/25 20:58:12。
+     1>项目“c:\Users\administrator\documents\visual studio 2010\Projects\altnames\altnames\altnames.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“c:\users\administrator\documents\visual studio 2010\Projects\altnames\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\altnames.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\visual studio2010\ProductDocumentation\visual stdio 2010.安装\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt altnames.c
+         altnames.c
+     1>c:\users\administrator\documents\visual studio 2010\projects\altnames\altnames\altnames.c(4): error C2065: “int16_t”: 未声明的标识符
+     1>c:\users\administrator\documents\visual studio 2010\projects\altnames\altnames\altnames.c(4): error C2146: 语法错误: 缺少“;”(在标识符“me16”的前面)
+     1>c:\users\administrator\documents\visual studio 2010\projects\altnames\altnames\altnames.c(4): error C2065: “me16”: 未声明的标识符
+     1>c:\users\administrator\documents\visual studio 2010\projects\altnames\altnames\altnames.c(5): error C2065: “me16”: 未声明的标识符
+     1>c:\users\administrator\documents\visual studio 2010\projects\altnames\altnames\altnames.c(7): error C2065: “me16”: 未声明的标识符
+     1>c:\users\administrator\documents\visual studio 2010\projects\altnames\altnames\altnames.c(11): error C2146: 语法错误: 缺少“)”(在标识符“prid16”的前面)
+     1>c:\users\administrator\documents\visual studio 2010\projects\altnames\altnames\altnames.c(11): error C2059: 语法错误:“)”
+     1>已完成生成项目“c:\Users\administrator\documents\visual studio 2010\Projects\altnames\altnames\altnames.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.32
